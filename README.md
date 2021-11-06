@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oğuzhan</h1>
+<h1 align="center">Hi, I'm Oğuzhan 👋</h1>
 
 - 💻 I’m dealing with Android Development via **(Kotlin, Java)**
 - 🌱 Currently learning IOS development via **(Swift)**
